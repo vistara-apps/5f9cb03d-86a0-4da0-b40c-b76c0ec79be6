@@ -1,0 +1,14 @@
+{
+  "name": "ShieldWallet",
+  "description": "ShieldWallet is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://5f9cb03d-86a0-4da0-b40c-b76c0ec79be6.vercel.app",
+  "properties": {
+    "app": {
+      "name": "ShieldWallet",
+      "description": "ShieldWallet is a Base Mini App built with Zara.",
+      "url": "https://5f9cb03d-86a0-4da0-b40c-b76c0ec79be6.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
